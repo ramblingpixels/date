@@ -19,18 +19,20 @@ function App() {
 		<div className="App">
 			{confetti ? (
 				<div>
-					<h1>Thank you so much! I promise you won't regret this!</h1>
+					<h1>
+						YAYYYYYYY! 🥳 <br /> I promise you won't regret this hehe
+					</h1>
 					{confetti && <Confetti />}
 				</div>
 			) : (
 				<div>
-					<h2>I know I messed up BIG TIME</h2>
-					<h2>I'm stupid</h2>
-					<h1>I'm so sorry</h1>
-					<h1>
+					<h1>I'm sorry for messing up 😭</h1>
+					<h2>I missed a clear sign from you because I'm stupid lol</h2>
+
+					<h2>
 						Will you please forgive me and do me the honour of going out with
-						me?
-					</h1>
+						me? 🥺🌹
+					</h2>
 					<div className="buttons">
 						<button
 							className="yes-btn"
